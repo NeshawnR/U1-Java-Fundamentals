@@ -5,4 +5,14 @@ public class TimeCrunch {
 
     Example:
      */
+    public static void main(String[] args){
+
+        int seconds = 60;
+        int minutes  = 60;
+        int hour = 1;
+
+        System.out.println(seconds + " seconds = 1 minute " + minutes + " minutes = " + hour +" hour");
+
+
+    }
 }

@@ -6,4 +6,15 @@ public class CalculatingDistance {
     Example: 55 mph for 45 minutes -> 41.25 miles
 
     */
+    public static void main(String[] args){
+
+        int speed = 35;
+        int time = 30;
+        int distance = speed * time;
+
+        System.out.println(" The distance he traveled is " + distance + " miles");
+
+
+    }
+
 }
